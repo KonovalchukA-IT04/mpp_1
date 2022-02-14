@@ -1,0 +1,32 @@
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.exe
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.deps.json
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.runtimeconfig.json
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.runtimeconfig.dev.json
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.dll
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\ref\go_to_app.dll
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.pdb
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.csproj.AssemblyReference.cache
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.AssemblyInfoInputs.cache
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.AssemblyInfo.cs
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.csproj.CoreCompileInputs.cache
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.dll
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\ref\go_to_app.dll
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.pdb
+E:\studying\II course\IV semestr\mpp\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.genruntimeconfig.cache
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.exe
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.deps.json
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.runtimeconfig.json
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.runtimeconfig.dev.json
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.dll
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\ref\go_to_app.dll
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\bin\Debug\net5.0\go_to_app.pdb
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.csproj.AssemblyReference.cache
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.AssemblyInfoInputs.cache
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.AssemblyInfo.cs
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.csproj.CoreCompileInputs.cache
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.dll
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\ref\go_to_app.dll
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.pdb
+E:\studying\IV semestr\mpp\lab1\go_to_app\go_to_app\obj\Debug\net5.0\go_to_app.genruntimeconfig.cache

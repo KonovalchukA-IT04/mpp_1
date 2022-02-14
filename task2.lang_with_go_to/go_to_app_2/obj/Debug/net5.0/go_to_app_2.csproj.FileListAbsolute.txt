@@ -1,0 +1,16 @@
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.exe
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.deps.json
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.runtimeconfig.json
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.runtimeconfig.dev.json
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.dll
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\ref\go_to_app_2.dll
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\bin\Debug\net5.0\go_to_app_2.pdb
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.csproj.AssemblyReference.cache
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.AssemblyInfoInputs.cache
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.AssemblyInfo.cs
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.csproj.CoreCompileInputs.cache
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.dll
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\ref\go_to_app_2.dll
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.pdb
+E:\studying\II course\IV semestr\mpp\go_to_app_2\go_to_app_2\obj\Debug\net5.0\go_to_app_2.genruntimeconfig.cache
